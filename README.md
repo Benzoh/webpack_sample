@@ -5,12 +5,12 @@
 # install webpack
 
 ```
-npm init -y
-npm install --save-dev webpack
+$ npm init -y
+$ npm install --save-dev webpack
 ```
 
 # start(compile)
 
 ```
-webpack
+$ webpack
 ```
