@@ -14,3 +14,9 @@ $ npm install --save-dev webpack
 ```
 $ webpack
 ```
+
+# compile command
+
+```
+$ npx webpack _assets/js/index.js --output dist/js/bundle.js
+```
